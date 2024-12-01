@@ -2,17 +2,17 @@ class ZZEhentaiBak extends ComicSource {
     // Note: The fields which are marked as [Optional] should be removed if not used
 
     // name of the source
-    name = "zzehentai_bak"
+    name = "zzEhentai_bak"
 
     // unique id of the source
-    key = "zzehentai_bak"
+    key = "zzEhentai_bak"
 
     version = "1.1.0"
 
     minAppVersion = "1.0.0"
 
     // update url
-    url = "https://raw.githubusercontent.com/bustesoul/venera-configs/refs/heads/main/zzehentai_bak.js"
+    url = "https://raw.githubusercontent.com/bustesoul/venera-configs/refs/heads/main/zzEhentai_bak.js"
 
     /**
      * cached api key
@@ -382,7 +382,7 @@ class ZZEhentaiBak extends ComicSource {
     // categories
     category = {
         /// title of the category page, used to identify the page, it should be unique
-        title: "zzehentai_bak",
+        title: "zzEhentai_bak",
         parts: [],
         // enable ranking page
         enableRankingPage: true,
